@@ -1,0 +1,13 @@
+* PSpice Model Editor - Version 22.1.0
+
+*$
+*DEVICE=diodauv,D
+
+* diodauv D model
+* created using Model Editor release 22.1.0 on 05/13/23 at 17:21
+* The Model Editor is a PSpice product.
+.MODEL diodauv D
++ IS=27.509E-9
++ N=5
++ RS=1.1739
+*$

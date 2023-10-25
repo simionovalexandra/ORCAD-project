@@ -1,0 +1,11 @@
+* PSpice Model Editor - Version 22.1.0
+*$
+*DEVICE=diodamov,D
+* diodamov D model
+* created using Model Editor release 22.1.0 on 05/18/23 at 17:55
+* The Model Editor is a PSpice product.
+.MODEL diodamov D
++ IS=132.53E-18
++ N=3.7629
++ RS=2.6573
+*$

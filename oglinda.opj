@@ -1,0 +1,112 @@
+(ExpressProject "oglinda"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "22.1 P001 (4063652)  [10/6/2022]-[05/22/23]")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (Allegro Netlist Directory "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\oglinda.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE")
+    (Display_Online_DRC_Results "FALSE"))
+  (Folder "Layout")
+  (Folder "Outputs"
+    (File ".\oglinda-pspicefiles\schematic1\schematic1.net"
+      (Type "Report")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles"
+      (ActiveProfile ".\oglinda-pspicefiles\schematic1\oglinda.sim")
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\oglinda-pspicefiles\schematic1\oglinda.sim"
+        (DisplayName "SCHEMATIC1-oglinda")
+        (Type "PSpice Profile")))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User))
+    (Folder "Model Libraries"
+      (File ".\mydiode.lib"
+        (DisplayName ".\mydiode.lib")
+        (Type "PSpiceLibrary"))
+      (File ".\diodamov.lib"
+        (DisplayName ".\diodamov.lib")
+        (Type "PSpiceLibrary"))
+      (File ".\diodauv.lib"
+        (DisplayName ".\diodauv.lib")
+        (Type "PSpiceLibrary"))
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (Folder "Logs")
+  (PartMRUSelector
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (Dbreak
+      (FullPartName "Dbreak.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\PSPICE\BREAKOUT.OLB")
+      (DeviceIndex "0"))
+    (VDC
+      (FullPartName "VDC.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-L
+      (LibraryName "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (LM358
+      (FullPartName "LM358.Normal")
+      (LibraryName "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\PSPICE\OPAMP.OLB")
+      (DeviceIndex "0"))
+    (PARAM
+      (FullPartName "PARAM.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\PSPICE\SPECIAL.OLB")
+      (DeviceIndex "0"))
+    (BC107A
+      (FullPartName "BC107A.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\PSPICE\EBIPOLAR.OLB")
+      (DeviceIndex "0"))
+    (BCP54/INF
+      (FullPartName "BCP54/INF.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\PSPICE\INFINEON.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Cadence\SPB_22.1\tools\capture\library\pspice")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\ALEXANDRA\Desktop\DIVERSE\proiect cad\oglinda.dsn")
+      (Path "Design Resources"
+         "C:\Users\ALEXANDRA\Desktop\DIVERSE\proiect cad\oglinda.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources"
+         "C:\Users\ALEXANDRA\Desktop\DIVERSE\proiect cad\oglinda.dsn"
+         "Design Cache")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "C:\Users\ALEXANDRA\Desktop\DIVERSE\proiect cad\oglinda.dsn"
+         "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 513"))
+      (Tab 0)))
+  (MPSSessionName "ALEXANDRA"))

@@ -1,0 +1,8 @@
+STATUS: PSpice Schematics to Capture translator (22.1.0.d001)
+STATUS:  
+STATUS: Translator started at Thursday, May 18, 2023 18:05:10
+STATUS: C:\Cadence\SPB_22.1\tools\bin\sch2cap -f "C:\Users\ALEXANDRA\Desktop\proiect cad\mydiode.lib" -o "C:\Users\ALEXANDRA\Desktop\proiect cad\mydiode.olb" -i C:\Users\ALEXANDRA\AppData\Roaming\SPB_Data\.\cdssetup\OrCAD_PSpice/22.1.0/PSpice.ini -s mydiode
+INFO(ORSCH-1029): Using existing library 'C:\Cadence\SPB_22.1\tools\Capture\Library\PSpice\modeled.etc'.
+INFO(ORSCH-1031): Created new library 'C:\Users\ALEXANDRA\Desktop\proiect cad\mydiode.olb'.
+STATUS: Translator stopped at Thursday, May 18, 2023 18:05:10
+STATUS: 0 Error messages, 0 Warning messages
